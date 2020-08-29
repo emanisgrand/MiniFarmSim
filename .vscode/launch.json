@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MiniFarmSimulator",
+            "request": "launch",
+            "mainClass": "MiniFarmSimulator",
+            "projectName": "MiniFarm_4d2ba74a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MiniFarmSimulator",
+            "request": "launch",
+            "mainClass": "MiniFarmSimulator",
+            "projectName": "MiniFarm_92b4728f"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
